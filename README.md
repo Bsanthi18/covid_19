@@ -7,6 +7,7 @@
  - requests
  - json
    
- 'requests' library to get the data from API
- 'json' library to give the data in json format 
+ 'requests' library to get the data from API.
+ 
+ 'json' library to give the data in json format. 
 
